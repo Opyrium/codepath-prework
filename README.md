@@ -39,11 +39,19 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![] (https://imgur.com/aDM4hV0)
-![] (https://imgur.com/7bnIJQT)
-![] (https://imgur.com/SZDUarA)
-![] (https://imgur.com/CF23Xtk)
-![Prework1](https://user-images.githubusercontent.com/82544098/160904563-c3676255-0150-4594-a7b2-5d17a99d88df.gif)
+![] https://imgur.com/aDM4hV0  (direct link and sound)
+![PreworkGIF1](https://user-images.githubusercontent.com/82544098/160906818-49f51af5-846e-417f-bc53-4f60e6a6138c.gif)
+
+![] https://imgur.com/7bnIJQT (direct link and sound)
+![PreworkGIF2](https://user-images.githubusercontent.com/82544098/160906876-89064fc4-4963-4247-af28-cf4c6b81f08a.gif)
+
+![] https://imgur.com/SZDUarA (direct link and sound)
+![PreworkGIF3](https://user-images.githubusercontent.com/82544098/160906901-b8fcb430-1f9f-4b74-bf9f-14b6deb53afe.gif)
+
+![] https://imgur.com/CF23Xtk (direct link and sound)
+![PreworkGIF4](https://user-images.githubusercontent.com/82544098/160906928-6191aff5-6bc8-4bbb-844d-da510e7dc026.gif)
+
+
 
 
 ## Reflection Questions
